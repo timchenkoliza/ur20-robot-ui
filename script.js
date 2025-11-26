@@ -200,5 +200,6 @@
             if (state.currentView === 'developers' || state.currentView === 'demo') {
                 drawDebugCanvas();
             }
+            
         });
     </script>
