@@ -1,4 +1,5 @@
-    <script>
+
+<script>
         // State Management
         const state = {
             currentView: 'dashboard',
